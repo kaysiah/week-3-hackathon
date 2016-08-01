@@ -1,0 +1,39 @@
+#gray{
+	background-color: gray;
+	margin: 5px;
+}
+#blue{
+	background-color: blue;
+}
+#yellow{
+	background-color: yellow;
+}
+
+#green{
+	background-color: green;
+}
+#orange{
+	background-color: orange;
+}
+
+#black{
+	background-color: black;
+}
+
+#fuchsia{
+	background-color: fuchsia;
+}
+
+#content{
+	margin-top: 75px;
+	text-align: center;
+}
+
+img{
+	height: 240px;
+	width: 320px;
+}
+
+body{
+	background-color: green;
+}
